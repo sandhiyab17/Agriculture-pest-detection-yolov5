@@ -191,7 +191,7 @@ The model performance is evaluated using standard object detection metrics:
 
 # Sample Results
 
-After uploading screenshots, include them here.
+
 
 | Input Image | Detection Output |
 |-------------|------------------|
