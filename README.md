@@ -195,9 +195,7 @@ After uploading screenshots, include them here.
 
 | Input Image | Detection Output |
 |-------------|------------------|
-| <img width="340" height="353" alt="image" src="https://github.com/user-attachments/assets/e13cc13a-2e71-4261-ae0f-3e3371e02ddf" />
- | <img width="362" height="288" alt="image" src="https://github.com/user-attachments/assets/280c40c2-78ce-4c97-8c51-4cefe11bcc2e" />
- |
+| <img width="340" height="353" alt="image" src="https://github.com/user-attachments/assets/e13cc13a-2e71-4261-ae0f-3e3371e02ddf" /> | <img width="362" height="288" alt="image" src="https://github.com/user-attachments/assets/280c40c2-78ce-4c97-8c51-4cefe11bcc2e" /> |
 
 ---
 
