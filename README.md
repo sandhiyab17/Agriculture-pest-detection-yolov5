@@ -6,7 +6,7 @@ An end-to-end computer vision solution developed during my AI/ML Internship at t
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-ObjectDetection-success)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-ObjectDetection-success)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?logo=opencv)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
