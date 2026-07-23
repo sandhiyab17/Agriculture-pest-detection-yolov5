@@ -1,6 +1,6 @@
-# Agricultural Pest Dtection Using YoloV5
+# Agricultural Pest Dtection Using YoloV8
 
-**AI-Powered Agricultural Pest Detection using YOLOv5**
+**AI-Powered Agricultural Pest Detection using YOLOv8**
 
 An end-to-end computer vision solution developed during my AI/ML Internship at the **Tamil Nadu e-Governance Agency (TNeGA)** to automate agricultural pest detection using deep learning.
 
@@ -16,7 +16,7 @@ An end-to-end computer vision solution developed during my AI/ML Internship at t
 
 Agriculture is one of the most important sectors globally, yet crop losses caused by pests continue to affect productivity and food security. Traditional pest monitoring relies on manual inspection, which is time-consuming, labor-intensive, and susceptible to human error.
 
-This project presents an AI-powered pest detection system built using **YOLOv5** to automatically detect agricultural pests from crop images. The solution is designed to support precision agriculture by enabling faster and more accurate pest identification.
+This project presents an AI-powered pest detection system built using **YOLOv8** to automatically detect agricultural pests from crop images. The solution is designed to support precision agriculture by enabling faster and more accurate pest identification.
 
 This project was developed during my AI/ML Internship at the **Tamil Nadu e-Governance Agency (TNeGA)** as part of an initiative to explore practical applications of computer vision in agriculture.
 
@@ -42,7 +42,7 @@ The objective of this project is to automate pest detection using deep learning 
 # Features
 
 - Real-time agricultural pest detection
-- YOLOv5-based object detection model
+- YOLOv8-based object detection model
 - Custom annotated dataset
 - Image annotation using CVAT and Roboflow
 - GPU-accelerated model training using PyTorch
@@ -99,7 +99,7 @@ Pest Detection Results
 # Repository Structure
 
 ```text
-smart-pest-detection-yolov5/
+smart-pest-detection-yolov8/
 
 ├── assets/
 ├── configs/
@@ -138,13 +138,13 @@ The original dataset is not publicly available due to confidentiality agreements
 Clone the repository:
 
 ```bash
-git clone https://github.com/sandhiyab17/smart-pest-detection-yolov5.git
+git clone https://github.com/sandhiyab17/smart-pest-detection-yolov8.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Agricultural-Pest-Detection-YOLOv5
+cd Agricultural-Pest-Detection-YOLOv8
 ```
 
 Install the required dependencies:
@@ -226,7 +226,7 @@ I would like to thank:
 
 - Tamil Nadu e-Governance Agency (TNeGA)
 - My mentors and the AI/ML team
-- Ultralytics for the YOLOv5 framework
+- Ultralytics for the YOLOv8 framework
 - Roboflow
 - CVAT
 - PyTorch community
