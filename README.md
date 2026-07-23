@@ -138,13 +138,13 @@ The original dataset is not publicly available due to confidentiality agreements
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/smart-pest-detection-yolov5.git
+git clone https://github.com/sandhiyab17/smart-pest-detection-yolov5.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd smart-pest-detection-yolov5
+cd Agricultural-Pest-Detection-YOLOv5
 ```
 
 Install the required dependencies:
